@@ -6,8 +6,6 @@ _A Personal Introduction Website_
 
 This is a personal portfolio website created as a final project for a html &css course. The website showcases information about Rainy , a first-year student at NTUE MIE.
 
-**Title:** "不是自我介紹的自我介紹網頁" (Not Really An Introduction Introduction Website)
-
 
 ## 🌐 Website Structure
 
